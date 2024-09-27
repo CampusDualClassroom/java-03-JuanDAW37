@@ -30,11 +30,6 @@ public class Exercise03 {
 
 
     public static void main(String[] args) {
-       /*Scanner teclado = new Scanner(System.in);
-        System.out.print("Nome de usuario: ");
-        String nome = teclado.next();
-        System.out.print("password: ");
-        String password = teclado.next();*/
         checkUser("Sebas", "sebas01");
         checkUser("Juan", "Juan05");
     }
